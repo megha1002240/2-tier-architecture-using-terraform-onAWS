@@ -35,10 +35,7 @@ This project demonstrates how to deploy a 2-tier architecture on AWS using Terra
 
 # Project Structure
 
-2-tier-project/
-├── main.tf
-├── variables.tf
-└── output.tf
+2-tier-project/ main.tf variables.tf output.tf
 
 # Backend Configuration
 
